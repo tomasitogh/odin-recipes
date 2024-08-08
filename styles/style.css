@@ -1,0 +1,29 @@
+*{
+    font-family: "Lucida Console", "Courier New", monospace; 
+    text-align: justify;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+h1{
+    font-size: 28px;
+    color: grey;
+    background-color: beige;
+}
+
+ul li{
+    list-style: georgian;
+    color: rgb(#827b7b);
+    font-style: italic;
+}
+
+.li-recipe-link {
+    list-style: circle;
+    color: red;
+    font-style: initial;
+}
+
+.para {
+    font-weight: 300;
+    font-style: italic;
+}
